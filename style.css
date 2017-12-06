@@ -61,6 +61,7 @@
     width:800px;
     margin-left:auto;
     margin-right:auto;
+    margin:50px;
   }
 
   #nav .selected{
@@ -97,6 +98,27 @@
 
   ul{
     list-style-type: none;
+  }
+  
+   #gol1{
+    background-color:blue;
+    text-align: center;
+    color: black;
+    font-weight:bold;
+  }
+  
+   #gol2{
+    background-color:blue;
+    text-align: center;
+    color: black;
+    font-weight:bold;
+  }
+  
+   #gol3{
+    background-color:blue;
+    text-align: center;
+    color: black;
+    font-weight:bold;
   }
 
 /*Adding styles to resume page*/
